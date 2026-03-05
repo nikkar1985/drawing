@@ -1,0 +1,27 @@
+{
+"name" : "whiteboard",
+"version" : 1.0.0,
+"descrpition" : "A whiteboard",
+"main" : "index.js",
+"keywords" : [
+"socket.io",
+"whiteboard"
+
+],
+
+"dependecies": {
+"express":"4.17.1",
+"socket.io": "4.0.0"
+
+
+},
+"scripts": {
+"start" : "node index"
+},
+"author" : "nk",
+"licence" : "MIT"
+
+
+
+}
+}
